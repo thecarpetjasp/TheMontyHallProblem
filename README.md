@@ -7,7 +7,7 @@ The Monty Hall Problem is a fascinating and fun brain teaser in the form a proba
 
 *Suppose you are on a game show and are presented with three closed doors. Behind one door is a million dollars. Behind the other two remaining doors are goats. You make a selection of one of these doors. After your selection, the game show host ups the ante by opening one of the doors you didn't choose, revealing a goat. He then offers you a choice; either stay with your original door, or switch to the other remaining door. What do you do?*
 
-Now believe it or not, there is a correct answer to this. Intuitively, it would appear that there is neither a right or wrong answer to this, as you would think that your odds are 50/50, simply because of the fact that you either have to make a decision to stay with your door, or switch. You are faced with only 2 choices, therefore you are facing 50/50 odds. How can there be a *correct* answer to this at all? Well it turns out there is, and the answer is to switch!
+Now believe it or not, there is a correct answer to this. Intuitively, it would appear that there is neither a right or wrong answer, as you would think that your odds are 50/50, simply because of the fact that you either have to make a decision to stay with your door or switch. You are faced with only 2 choices, therefore you are facing 50/50 odds. How can there be a *correct* answer at all? Well it turns out there is, and the answer is to switch!
 
 
 ## Explanation
