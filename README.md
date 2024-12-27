@@ -31,4 +31,4 @@ So there you have it! This problem and it's solution even had the best mathemati
 
 
 ## Fun extras: Simulation
-To finish off, I will leave all of you a computer simulation I wrote in Python, which visually shows you the result of either switching, or not switching. As **Savant** demonstrated in her column, by choosing to switch doors, you will win the million doors 66.66% of the time. I hope that you enjoyed reading this.
+To finish off, I will leave all of you a computer simulation I wrote in Python, which visually shows you the result of either switching, or not switching. As **Savant** demonstrated in her column, by choosing to switch doors, you will win the million doors 66.66% of the time. I hope that you enjoyed reading this!
