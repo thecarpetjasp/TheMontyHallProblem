@@ -1,5 +1,5 @@
 # The Monty Hall Problem Simulation
-A python simulation to prove The Monty Hall Problem.
+A Python simulation to prove The Monty Hall Problem.
 
 
 ## Introduction
@@ -17,7 +17,7 @@ When we started the game, we didn't have just two doors, we had three. When you 
 
 Now for some of you, things may have started to click already. But for others, this may still be challenging to wrap your head around. Don't worry, I was exactly the same! So to make this even clearer to understand, we will extend our doors from a total of three, to a total of a thousand! Let's walk through this together...
 
-You have a thousand (1000) doors, and you select just one (1) of those. What are the chances out of a thousand doors, that your selection just so happens to be the door with the million doors? Pretty unlikely, I'm sure you would agree. A 1/1000, otherwise known as a 0.1% chance! It's not hard to understand now, that the door with the million dollars is very likely to be in the other 999 doors. A 99.9% chance to be exact! If the game show host now elimates 998 of those doors that contain the goats, leaving one remaining door, then that door is 99.9% likely to be the door with the money inside. This is a lot easier to see when you extend this game to a thousand doors. When you are dealing with just three doors, it's a little harder to imagine. But hopefully you can now see.
+You have a thousand (1000) doors, and you select just one (1) of those. What are the chances out of a thousand doors, that your selection just so happens to be the door with the million dollars? Pretty unlikely, I'm sure you would agree. A 1/1000, otherwise known as a 0.1% chance! It's not hard to understand now, that the door with the million dollars is very likely to be in the other 999 doors. A 99.9% chance to be exact! If the game show host now elimates 998 of those doors that contain the goats, leaving one remaining door, then that door is 99.9% likely to be the door with the money inside. This is a lot easier to see when you extend this game to a thousand doors. When you are dealing with just three doors, it's a little harder to imagine. But hopefully you can now see.
 
 
 ## Fun fact
